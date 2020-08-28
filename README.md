@@ -1,3 +1,5 @@
+# :round_pushpin::fire: NOTE: This repository is no longer maintained and it has been moved to new location, kindly refer new location (https://github.com/praveenraghuvanshi/tech-sessions) for latest updates:fire::round_pushpin: 
+
 # Technical Sessions
 A repository consisting of Technical sessions delivered
 
